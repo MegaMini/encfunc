@@ -1,0 +1,29 @@
+{
+  "name": "encfunc",
+  "version": "1.0.0",
+  "description": "A simple encryption and decryption module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "encryption",
+    "decryption",
+    "crypto"
+  ],
+  "author": "MegaMini",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^18.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.3",
+    "typescript": "^5.0.0"
+  }
+}
