@@ -19,6 +19,8 @@ EncFunc is a powerful and secure encryption/decryption library built with TypeSc
 
 ### Installation
 
+[NPM LINK](https://www.npmjs.com/package/encfunc)
+
 ```bash
 npm install encfunc
 # or
@@ -73,6 +75,8 @@ EncFunc, uygulamalarınız için güçlü ve güvenli bir şifreleme/çözme kü
 - 🎯 Detaylı hata mesajları ile hata yönetimi
 
 ### Kurulum
+
+[NPM LİNKİ](https://www.npmjs.com/package/encfunc)
 
 ```bash
 npm install encfunc
